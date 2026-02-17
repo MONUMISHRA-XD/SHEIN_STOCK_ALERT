@@ -13,7 +13,7 @@ import tempfile
 
 # Configuration
 CONFIG = {
-    'telegram_bot_token': '8421338028:AAFKYrW--ko-MX07cMbriirh-YQO6Q4Ugz0',
+    'telegram_bot_token': '8052952847:AAF8Wrtw-wN8vgyiEI_Vq3RDL8gTSx1XNbs',
     'telegram_chat_id': '-1002890307284',
     'admin_user_ids': ['1157931747'],
     'api_url': 'https://www.sheinindia.in/c/sverse-5939-37961',
